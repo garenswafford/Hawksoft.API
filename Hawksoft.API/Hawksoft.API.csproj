@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HawkSoft.DataModels\HawkSoft.DataModels.csproj" />
+    <ProjectReference Include="..\Hawksoft.EF.Database\Hawksoft.EF.Database.csproj" />
+  </ItemGroup>
+
+
+</Project>
